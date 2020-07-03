@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "ANASTAS";
+    src: url("ANASTAS.TTF");
+}
+
+body { 
+    font-family: "ANASTAS", serif
+}
+
+time {
+    font-size: 200px;
+}
+
+.red {
+    color: red;
+}
+
+.purple {
+    color: purple;
+}
+
+.brue {
+    color: skyblue;
+}
+
+.green {
+    color: greenyellow
+}
+
+.yellow {
+    color: yellow
+}
